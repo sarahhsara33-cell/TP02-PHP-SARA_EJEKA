@@ -9,6 +9,9 @@
 
     </h1>
     <?php  
+    //afficher avec PHP
+    /* ajouter plusieurs commantaire
+        sur plusieurs lignes*/
             echo "Bienvenue dans notre TP PHP";
             echo "Nom : Sara<br>";
             echo "Prénom : Ejeka<br>";

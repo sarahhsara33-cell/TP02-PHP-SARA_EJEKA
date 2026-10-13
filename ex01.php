@@ -5,9 +5,7 @@
     <title>Exercice1 - TP PHP</title>
 </head>
 <body>
-    <h1>Exercice 1
-
-    </h1>
+    <h1>Exercice 1</h1>
     <?php  
     //afficher avec PHP
     /* ajouter plusieurs commantaire

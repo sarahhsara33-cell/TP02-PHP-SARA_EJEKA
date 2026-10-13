@@ -9,6 +9,7 @@
 
   <?php
    
+   
    $valeursTestees = [-1, 9, 10, 12, 14, 16, 21];
 
    foreach ($valeursTestees as $moyenne) {

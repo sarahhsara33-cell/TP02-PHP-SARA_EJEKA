@@ -5,7 +5,7 @@
     <title>Exercice 7 - TP PHP</title>
 </head>
 <body>
-  <h1>Exercice 7 - Tests multiples</h1>
+   <h1>Exercice 7 - Tests multiples</h1>
    <?php
    $nombre = 7;
    for ($i = 1; $i <= 10; $i++) {

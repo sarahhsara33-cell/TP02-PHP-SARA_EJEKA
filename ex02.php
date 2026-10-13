@@ -17,6 +17,7 @@
   echo "Je m'appelle " .$nom ."" .$prenom ." j'ai " .$age ."ans et je suis une  ".$information .= $info ."<br>";
 
   $note = 12;
+  
   $Note = 16;
   echo "la 1 notes est : $note <br>";
   echo "la 1 notes est : $Note <br>";

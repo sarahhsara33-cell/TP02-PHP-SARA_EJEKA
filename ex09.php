@@ -5,6 +5,7 @@ $notes = [
     "Youssef" => 8,
     "Lina" => 14,
     "Adam" => 10
+    
 ];
 
 $sommeNotes = 0;

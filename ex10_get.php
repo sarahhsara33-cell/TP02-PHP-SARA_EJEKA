@@ -22,4 +22,5 @@
     ?>
     <p><a href="ex10_get.html">Retour au formulaire</a></p>
 </body>
+
 </html>

@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -17,6 +16,5 @@
             echo "Groupe : Groupe 1<br>";
     ?>
     <?= "Merci de votre visite !" ?>;
-
 </body>
 </html>
